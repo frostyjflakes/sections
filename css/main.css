@@ -25,25 +25,25 @@ html {
   display: block;
   padding: 1em 2em;
   max-width: 25em;
-  padding: 0.4em 0.75em 0.5em
+  padding: 0.4em 0.75em 0.5em;
 }
 
 .section strong {
   display: block;
   max-width: 25em;
   font-size: 1.5rem;
-  padding: 0.4em 0.75em 0.5em
+  padding: 0.4em 0.75em 0.5em;
 }
 
 .section p {
   color: #333333;
-  max-width: 25em
+  max-width: 25em;
   padding: 0.4em 0.75em 0.5em;
 }
 
 .section div {
   text-align: center;
-  max-width: 25em
+  max-width: 25em;
 }
 
 .section a {
